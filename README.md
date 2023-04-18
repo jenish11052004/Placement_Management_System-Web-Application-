@@ -12,5 +12,6 @@ In today’s world everyone is travelling for jobs after Completion of their gra
 
 #### solution
 ######
-It has became need for each and every student The project is aimed at developing an online web application for the placement department of the college
+It has became need for each and every student The project is aimed at developing an online web application for the placement department of the college.
+######
 this Web Application can solve these problems.
